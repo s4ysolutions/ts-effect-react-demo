@@ -1,5 +1,7 @@
 # TS Effect/React demo app
 
+(Live demo)[https://ts-effect-react.web.app]
+
 ## Architecture
 
 The architectural approach is the same as in [Serbian Grammar Trainer](https://github.com/s4ysolutions/srpska-gramatika): a React-agnostic TypeScript layer for business logic, a React-based presentation layer, and a custom hook *glue layer* connecting the two.
