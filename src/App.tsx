@@ -1,4 +1,5 @@
 import reactLogo from './assets/react.svg'
+import githubLogo from './assets/github.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import useCounter from './hooks/useCounter'
@@ -15,6 +16,9 @@ function App() {
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
+        </a>
+        <a href="https://github.com/s4ysolutions/ts-effect-react-demo" target="_blank">
+          <img src={githubLogo} className="logo react" alt="GitHub logo" />
         </a>
       </div>
       <h1>Vite + React</h1>
