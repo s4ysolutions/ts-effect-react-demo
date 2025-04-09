@@ -1,6 +1,6 @@
 # TS Effect/React demo app
 
-(Live demo)[https://ts-effect-react.web.app]
+[Live demo](https://ts-effect-react.web.app)
 
 ## Architecture
 
